@@ -1,8 +1,8 @@
 ### Dependencies
 
 The algorithm uses : \
-`djitellopy` version 1.5 by [Damia Fuentes](https://github.com/damiafuentes) \
-`opencv-python` version 4.1.0.25
+-> `djitellopy` version 1.5 by [Damia Fuentes](https://github.com/damiafuentes//DJITelloPy) \
+-> `opencv-python` version 4.1.0.25
 
 - Install library requirements using `pip`
 ```bash
