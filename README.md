@@ -1,14 +1,16 @@
-# Face Tracking using DJI Tello
+### Dependencies
 
+The algorithm uses :
+`djitellopy` version 1.5 by [Damia Fuentes](https://github.com/damiafuentes)
+`opencv-python` version 4.1.0.25
 
-## Dependencies
-This algorithm uses :
-djitellopy ver 1.5 by https://github.com/damiafuentes opencv-python ver 4.1.0.25
+- Install library requirements using `pip`
+```bash
+$ pip3 install -r requirements.txt
+```
 
-install with bash:
-pip3 install -r requirements.txt
-
-## Run
+### Run
 To run the project :
-python3 facetrack.py haarcascade_frontalface_default.xml
-
+```bash
+$ python3 facetrack.py haarcascade_frontalface_default.xml
+```
