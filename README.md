@@ -4,6 +4,8 @@ The algorithm uses `djitellopy` version 1.5 by [Damia Fuentes](https://github.co
 
 - Install library requirements using `pip`
 ```bash
+$ git clone https://github.com/reachpranjal/djitello-face-track.git
+$ cd djitello-face-track
 $ pip3 install -r requirements.txt
 ```
 
